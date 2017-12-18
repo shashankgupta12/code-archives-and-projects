@@ -1,0 +1,357 @@
+[INFO  - 2016-03-23T17:23:14.203Z] GhostDriver - Main - running on port 59187
+[INFO  - 2016-03-23T17:23:14.557Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-03-23T17:23:14.557Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.customHeaders:  - {}
+[INFO  - 2016-03-23T17:23:14.557Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-03-23T17:23:14.557Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ece4d960-f11b-11e5-9caf-a9f05dbc4c43
+[ERROR - 2016-03-23T17:23:31.653Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:23:31.654Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:23:34.546Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:23:34.546Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:24:04.625Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:24:04.625Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:24:06.035Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:24:06.036Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:24:15.193Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:24:15.193Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:24:16.725Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:24:16.726Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:24:58.892Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:24:58.893Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:25:00.876Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:25:00.876Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:26:26.310Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:26:26.310Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:26:27.640Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:26:27.640Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:26:46.470Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:26:46.470Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:26:47.990Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:26:47.991Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:27:09.910Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:27:09.910Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:27:12.260Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:27:12.260Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:27:29.889Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:27:29.890Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:27:31.736Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:27:31.736Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:27:44.665Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:27:44.665Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:27:47.260Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:27:47.260Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:28:09.777Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:28:09.778Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:28:11.752Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:28:11.752Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2016-03-23T17:28:14.200Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-03-23T17:28:41.636Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:28:41.637Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:28:45.412Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:28:45.412Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:28:46.893Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:28:46.893Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:28:58.780Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:28:58.780Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:29:00.642Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:29:00.642Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:29:09.376Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:29:09.376Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:29:11.698Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:29:11.698Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:29:48.595Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:29:48.595Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:29:50.402Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:29:50.402Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:30:57.826Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:30:57.827Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:31:00.175Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:31:00.175Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:31:25.607Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:31:25.608Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:31:27.467Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:31:27.467Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:31:49.665Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:31:49.665Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:31:52.351Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:31:52.351Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:32:16.782Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:32:16.783Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:32:17.872Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:32:17.873Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:32:28.023Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:32:28.023Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:32:29.836Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:32:29.836Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:32:55.035Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:32:55.035Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:32:55.843Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:32:55.843Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2016-03-23T17:33:14.200Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-03-23T17:33:20.896Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:33:20.896Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:33:26.932Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:33:26.933Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:33:27.681Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:33:27.681Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:33:37.613Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:33:37.614Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:33:39.658Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:33:39.658Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:33:47.065Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:33:47.065Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:33:48.911Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:33:48.911Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:34:32.931Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:34:32.931Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:34:35.297Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - msg: TypeError: null is not an object (evaluating 'cross_marquee.style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-03-23T17:34:35.298Z] Session [ece4d960-f11b-11e5-9caf-a9f05dbc4c43] - page.onError - stack:
+  initializemarquee (http://trai.gov.in/JS/slider.js:21)
+
+  phantomjs://platform/console++.js:263 in error
